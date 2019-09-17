@@ -11,3 +11,29 @@ I also have many non-programming hobbies such as *drumming, bodybuilding, histor
 email - **imbot@inbox.ru**
 skype - **desertikon**
 phone - **+79502257507**
+
+## Skills: 
+My english level is A2+. I can watch films in original, I can read and understand what people are saying, but I have some problems with thinking and speaking in english.
+  ### Programming skills:
+  **Beginner:**
+    -C/C++
+    -Qt 5.10
+    -SFML
+    -Photoshop
+    -SVG
+    -BEM-naming
+    -Flexbox
+    -Grid
+    -Adaptive
+    -Responsive
+    -SCSS
+    -PUG
+    -Webpack 4
+    -Git
+    -JQuery
+    -HTML5
+    -CSS3
+    -Algorithms and data structures
+  **Beginner+:**
+    -JavaScript(ECMAScript 5,6)
+      
