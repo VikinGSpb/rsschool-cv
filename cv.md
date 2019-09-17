@@ -36,4 +36,17 @@ My english level is A2+. I can watch films in original, I can read and understan
     -Algorithms and data structures
   **Beginner+:**
     -JavaScript(ECMAScript 5,6)
-      
+
+## Education:
+  ### Books read: 
+  **Stephen Prata** *"C++ Primer plus 6th Edition"*
+  **David Flanagan** *"JavaScript The Defenitive Guide 6th Edition"*
+  **Aditya Bhargava** *"Grokking Algorithms"*
+
+  ### Online education:
+  **HTMLAcademy** - https://htmlacademy.ru/profile/id953047
+  **CodeAcademy** - https://www.codecademy.com/profiles/VikinGSpb
+  **CodeWars** - https://www.codewars.com/users/VikinGSpb
+  https://learn.javascript.ru   (part 1,half of part 2)
+  and many youtube videos.
+  I have *some projects* on my github: https://github.com/VikinGSpb
