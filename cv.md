@@ -43,9 +43,9 @@ My english level is A2+. I can watch films in original, I can read and understan
 **Aditya Bhargava** *"Grokking Algorithms"*  
 
 ### Online education:  
-**HTMLAcademy** - https://htmlacademy.ru/profile/id953047  
-**CodeAcademy** - https://www.codecademy.com/profiles/VikinGSpb  
-**CodeWars** - https://www.codewars.com/users/VikinGSpb  
-https://learn.javascript.ru   (part 1,half of part 2)  
+[HTMLAcademy profile](https://htmlacademy.ru/profile/id953047)  
+[CodeAcademy profile](https://www.codecademy.com/profiles/VikinGSpb)  
+[CodeWars profile](https://www.codewars.com/users/VikinGSpb)  
+[learn.javascript.ru](https://learn.javascript.ru)   (part 1,half of part 2)  
 and many youtube videos.  
-I have *some projects* on my github: https://github.com/VikinGSpb
+I have *some projects* in [my Github](https://github.com/VikinGSpb)
