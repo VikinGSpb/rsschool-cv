@@ -34,8 +34,7 @@ My english level is A2+. I can watch films in original, I can read and understan
 * HTML5
 * CSS3
 * Algorithms and data structures  
-  **Beginner+:**  
-* JavaScript(ECMAScript 5,6)
+* JavaScript(ECMAScript 5, 6)
 
 ## Education:
   ### Books read: 
