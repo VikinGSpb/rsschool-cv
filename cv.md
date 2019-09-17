@@ -13,9 +13,9 @@ skype - **desertikon**
 phone - **+79502257507**
 
 ## Skills: 
-My english level is A2+. I can watch films in original, I can read and understand what people are saying, but I have some problems with thinking and speaking in english.
-  ### Programming skills:
-  **Beginner:**  
+My english level is A2+. I can watch films in original, I can read and understand what people are saying, but I have some problems with thinking and speaking in english.  
+### Programming skills:
+**Beginner:**  
 * C/C++
 * Qt 5.10
 * SFML
@@ -37,15 +37,15 @@ My english level is A2+. I can watch films in original, I can read and understan
 * JavaScript(ECMAScript 5, 6)
 
 ## Education:
-  ### Books read: 
-  **Stephen Prata** *"C++ Primer plus 6th Edition"*  
-  **David Flanagan** *"JavaScript The Defenitive Guide 6th Edition"*  
-  **Aditya Bhargava** *"Grokking Algorithms"*  
+### Books read: 
+**Stephen Prata** *"C++ Primer plus 6th Edition"*  
+**David Flanagan** *"JavaScript The Defenitive Guide 6th Edition"*  
+**Aditya Bhargava** *"Grokking Algorithms"*  
 
-  ### Online education:
-  **HTMLAcademy** - https://htmlacademy.ru/profile/id953047  
-  **CodeAcademy** - https://www.codecademy.com/profiles/VikinGSpb  
-  **CodeWars** - https://www.codewars.com/users/VikinGSpb  
-  https://learn.javascript.ru   (part 1,half of part 2)  
-  and many youtube videos.  
-  I have *some projects* on my github: https://github.com/VikinGSpb
+### Online education:  
+**HTMLAcademy** - https://htmlacademy.ru/profile/id953047  
+**CodeAcademy** - https://www.codecademy.com/profiles/VikinGSpb  
+**CodeWars** - https://www.codewars.com/users/VikinGSpb  
+https://learn.javascript.ru   (part 1,half of part 2)  
+and many youtube videos.  
+I have *some projects* on my github: https://github.com/VikinGSpb
