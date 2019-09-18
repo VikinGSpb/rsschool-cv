@@ -9,6 +9,9 @@
 
 html, body {
   width: 100vw;
+
+  font-family: Arial, Helvetica, sans-serif;
+
   overflow-x: hidden;
 }
 
@@ -23,7 +26,7 @@ main {
   max-width: 1024px;
   margin: 0 auto;
 
-  background-color: lightgoldenrodyellow;
+  background-color: rgb(248, 242, 242);
 }
 
 .avatar {
@@ -33,28 +36,24 @@ main {
   padding: 3% 0 0 3%;
   
   border: none;
-  background-color: lightgoldenrodyellow;
 }
 
 .header {
   grid-area: header;
   padding-left: 5%;
-
-  background-color: lightgoldenrodyellow;
+  padding-right: 15px;
 }
 
 .aboutme {
   grid-area: aboutme;
-  padding: 10px 20px;
+  padding: 30px 20px;
 
-  background-color: lightcyan;
+  line-height: 1.2em;
 }
 
 .skills {
   grid-area: skills;
   padding: 10px 20px;
-
-  background-color: lightcyan;
 }
 
 .education {
@@ -67,8 +66,6 @@ main {
   padding: 10px 20px;
 
   line-height: 2em;
-
-  background-color: lightcyan;
 }
 
 .avatar-img {
