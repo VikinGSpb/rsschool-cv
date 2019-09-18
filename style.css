@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+
+  box-sizing: border-box;
+}
+
+main {
+  display: grid;
+  grid-template-areas: 
+    "photo header"
+    "aboutme aboutme"
+    "contacts contacts"
+    "skills skills"
+    "education education";
+  grid-template-columns: 1fr 5fr;
+  grid-row-gap: 10px;
+  max-width: 1024px;
+  margin: 0 auto;
+
+  background-color: yellow;
+
+  box-sizing: border-box;
+}
+
+.photo {
+  grid-area: photo;
+}
+
+.header {
+  grid-area: header;
+  padding-left: 5%;
+}
+
+.aboutme {
+  grid-area: aboutme;
+}
+
+.contacts {
+  grid-area: contacts;
+}
+
+.skills {
+  grid-area: skills;
+}
+
+.education {
+  grid-area: education;
+}
