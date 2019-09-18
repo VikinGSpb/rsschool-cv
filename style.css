@@ -18,7 +18,7 @@ main {
     "skills skills"
     "education education";
   grid-template-columns: 1fr 6fr;
-  grid-gap: 10px 0;
+  grid-gap: 20px 0;
   max-width: 1024px;
   margin: 0 auto;
 
@@ -48,6 +48,9 @@ main {
 
 .aboutme {
   grid-area: aboutme;
+  padding: 10px 20px;
+
+  background-color: lightcyan;
 }
 
 .contacts {
