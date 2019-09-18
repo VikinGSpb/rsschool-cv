@@ -14,11 +14,9 @@ main {
   grid-template-areas: 
     "avatar header"
     "aboutme aboutme"
-    "contacts contacts"
     "skills skills"
     "education education";
   grid-template-columns: 1fr 6fr;
-  grid-gap: 20px 0;
   max-width: 1024px;
   margin: 0 auto;
 
@@ -53,12 +51,11 @@ main {
   background-color: lightcyan;
 }
 
-.contacts {
-  grid-area: contacts;
-}
-
 .skills {
   grid-area: skills;
+  padding: 10px 20px;
+
+  background-color: lightcyan;
 }
 
 .education {
@@ -81,4 +78,8 @@ article figure img {
 
 section article figure {
   display: inline-block;
+}
+
+ul {
+  list-style-type: none;
 }
