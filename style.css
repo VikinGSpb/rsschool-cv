@@ -1,12 +1,15 @@
 * {
   margin: 0;
   padding: 0;
-}
 
-body {
-  width: 100vw;
+  text-decoration: none;
 
   box-sizing: border-box;
+}
+
+html, body {
+  width: 100vw;
+  overflow-x: hidden;
 }
 
 main {
@@ -21,8 +24,6 @@ main {
   margin: 0 auto;
 
   background-color: lightgoldenrodyellow;
-
-  box-sizing: border-box;
 }
 
 .avatar {
@@ -33,8 +34,6 @@ main {
   
   border: none;
   background-color: lightgoldenrodyellow;
-
-  box-sizing: border-box;
 }
 
 .header {
@@ -59,7 +58,17 @@ main {
 }
 
 .education {
+  display: grid;
+  grid-template-areas: 
+    "header header"
+    "online books";
+  grid-template-columns: 1fr 1fr;
   grid-area: education;
+  padding: 10px 20px;
+
+  line-height: 2em;
+
+  background-color: lightcyan;
 }
 
 .avatar-img {
@@ -82,4 +91,24 @@ section article figure {
 
 ul {
   list-style-type: none;
+}
+
+.skills ul li {
+  line-height: 1.5em;
+}
+
+.education h3 {
+  line-height: 2.5em;
+}
+
+.education h2 {
+  grid-area: header;
+}
+
+.online {
+  grid-area: online;
+}
+
+.books {
+  grid-area: books;
 }
