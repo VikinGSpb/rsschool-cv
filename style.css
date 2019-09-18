@@ -17,12 +17,12 @@ main {
     "contacts contacts"
     "skills skills"
     "education education";
-  grid-template-columns: 1fr 5fr;
-  grid-row-gap: 10px;
+  grid-template-columns: 1fr 6fr;
+  grid-gap: 10px 0;
   max-width: 1024px;
   margin: 0 auto;
 
-  background-color: yellow;
+  background-color: lightgoldenrodyellow;
 
   box-sizing: border-box;
 }
@@ -31,9 +31,10 @@ main {
   grid-area: avatar;
   height: 150px;
   width: 150px;
-  padding: 2% 0 0 2%;
+  padding: 3% 0 0 3%;
   
   border: none;
+  background-color: lightgoldenrodyellow;
 
   box-sizing: border-box;
 }
@@ -41,6 +42,8 @@ main {
 .header {
   grid-area: header;
   padding-left: 5%;
+
+  background-color: lightgoldenrodyellow;
 }
 
 .aboutme {
@@ -67,4 +70,12 @@ main {
   shape-outside: circle(50%);
   overflow: hidden;
   box-shadow: 0 1px 3px 3px rgba(0, 0, 0, 0.2);
+}
+
+article figure img {
+  transform: scale(0.5, 0.5) translateY(20px);
+}
+
+section article figure {
+  display: inline-block;
 }
